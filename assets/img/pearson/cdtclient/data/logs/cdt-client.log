@@ -1,0 +1,158 @@
+2024-11-23 12:18:30 IST [main] - INFO [com.ordinate.cdt.client.util.ClientProperties] Validating configuration...
+2024-11-23 12:18:30 IST [main] - INFO [com.ordinate.cdt.client.util.ClientSettings] Initializing client...
+2024-11-23 12:18:30 IST [main] - INFO [com.ordinate.ots.util.Template] Located template base: version = 1.5; release date = 2020-08-17 22:32:25
+2024-11-23 12:18:30 IST [main] - INFO [com.ordinate.ots.util.Template] Located template 3_0: version = 1.5; release date = 2020-08-17 22:32:25
+2024-11-23 12:18:30 IST [main] - INFO [com.ordinate.ots.util.Template] Located template VfW: version = 1.0; release date = 2020-08-17 22:32:25
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\labels.properties
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\config.html
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.ots.util.Template] Transformed XML file C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\pages\config.xml to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\config.html
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\download.html
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.ots.util.Template] Transformed XML file C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\pages\download.xml to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\download.html
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\downloading.html
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.ots.util.Template] Transformed XML file C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\pages\downloading.xml to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\downloading.html
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\entertin.html
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.ots.util.Template] Transformed XML file C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\pages\tin.xml to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\entertin.html
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\error.html
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.ots.util.Template] Transformed XML file C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\pages\error.xml to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\error.html
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\inventory.html
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.ots.util.Template] Transformed XML file C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\pages\inventory.xml to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\inventory.html
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\main.html
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.ots.util.Template] Transformed XML file C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\pages\main.xml to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\main.html
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\mic.html
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.ots.util.Template] Transformed XML file C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\pages\mic.xml to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\mic.html
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\preparing.html
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.ots.util.Template] Transformed XML file C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\pages\preparing.xml to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\preparing.html
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\update.html
+2024-11-23 12:18:33 IST [main] - INFO [com.ordinate.ots.util.Template] Transformed XML file C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\pages\update.xml to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\update.html
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\config.html
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\download.html
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\downloading.html
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\entertin.html
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\error.html
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\inventory.html
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\js\orddebug.js
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\js\ordexam.js
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\js\ordsystem.js
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\js\volume_bar.js
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\main.html
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\mic.html
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\pages\config.xml
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\pages\download.xml
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\pages\downloading.xml
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\pages\error.xml
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\pages\inventory.xml
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\pages\main.xml
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\pages\mic.xml
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\pages\preparing.xml
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\pages\tin.xml
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\pages\update.xml
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\preparing.html
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\azella-setup.xsl
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\azella.xsl
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\blt.xsl
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\exam.xsl
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\js\orddebug.js
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\js\ordexam.js
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\js\ordsystem.js
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\js\volume_bar.js
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\setup.xml
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\setup.xsl
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\system.xsl
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\va.xsl
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\vc.xsl
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\ve-nasscom.xsl
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\ve.xsl
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\vepte.xsl
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\view-0.0.html
+2024-11-23 12:18:35 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\view-1.0.html
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\view-2.0.html
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\vjet.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\azella-setup.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\azella.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\blt.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\exam.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\js\orddebug.js
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\js\ordexam.js
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\js\ordsystem.js
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\js\volume_bar.js
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\setup.xml
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\setup.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\system.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\va.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\vc.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\ve-nasscom.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\ve.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\vepte.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\view-0.0.html
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\view-1.0.html
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\vjet.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\template.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\update.html
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\xsl\azella-setup.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\xsl\azella.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\xsl\blt.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\xsl\exam.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\xsl\setup.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\xsl\system.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\xsl\va.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\xsl\vc.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\xsl\ve-nasscom.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\xsl\ve.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\xsl\vepte.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\xsl\vjet.xsl
+2024-11-23 12:18:36 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\3_0\labels.properties
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.cdt.client.util.ClientSettings] CDT Service URL: https://www.versanttest.com/cdt/versant
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.cdt.client.util.ClientSettings] Client mode: kiosk
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.cdt.client.util.ClientSettings] Client system: ordinate
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.cdt.client.CDT] CDT Client successfully initialized.
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.cdt.client.CDT] CDT Client configuration:
+Name: CDT Client
+Version: 4.0.0
+Build: 17
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.cdt.client.CDT] Validating sessions...
+2024-11-23 12:18:37 IST [Thread-3] - INFO [com.ordinate.cdt.client.CDT] Initializing OSS Client...
+2024-11-23 12:18:37 IST [Thread-3] - INFO [com.ordinate.oss.client.Client] Initializing OSS Client...
+2024-11-23 12:18:37 IST [Thread-3] - INFO [com.ordinate.oss.client.Client] OSS Client configuration:
+Name: OSS Client
+Version: UNKNOWN
+Build: UNKNOWN
+2024-11-23 12:18:37 IST [Thread-3] - INFO [com.ordinate.oss.client.OrdinateUploader] Satellite ID: 200
+2024-11-23 12:18:37 IST [Thread-3] - INFO [com.ordinate.oss.client.OrdinateUploader] Service URL: https://www.versanttest.com/oss/service
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.cdt.client.util.DisplaySettings] Valid screen resolution: 1920 x 1080
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.cdt.client.engine.browser.OrdBrowser] Loading browser...
+2024-11-23 12:18:37 IST [Thread-3] - INFO [com.ordinate.oss.client.OrdinateUploader] Scan interval: 10000
+2024-11-23 12:18:37 IST [Thread-3] - INFO [com.ordinate.oss.client.OrdinateUploader] Scan active interval: 5000
+2024-11-23 12:18:37 IST [Thread-3] - INFO [com.ordinate.oss.client.OrdinateUploader] Scan directory: C:\Users\Ziya\OneDrive\pearson\cdtclient\data\sessions
+2024-11-23 12:18:37 IST [Thread-3] - INFO [com.ordinate.oss.client.Client] OSS Client initialized:
+OrdinateUploader [m_curCtrl=null, m_masterCallCache={}, m_scanDir=C:\Users\Ziya\OneDrive\pearson\cdtclient\data\sessions, Uploader [m_activeScanInterval=5000, m_monitor=null, m_satId=200, m_scanInterval=10000]]
+2024-11-23 12:18:37 IST [Thread-3] - INFO [com.ordinate.cdt.client.CDT] OSS Client successfully initialized.
+2024-11-23 12:18:37 IST [Thread-3] - INFO [com.ordinate.cdt.client.CDT] Sessions validation complete.
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.cdt.client.engine.Chassis] Initializing XSL setup.xsl
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\view-0.0.html
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\view-1.0.html
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\js\orddebug.js
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\js\ordexam.js
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\js\ordsystem.js
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\writing\en_US\js\volume_bar.js
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.cdt.client.engine.Chassis] Initializing XSL setup.xsl
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\view-0.0.html
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\view-1.0.html
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\view-2.0.html
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\js\orddebug.js
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\js\ordexam.js
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\js\ordsystem.js
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.common.util.FileUtils] File written to C:\Users\Ziya\OneDrive\pearson\cdtclient\data\templates\VfW\setup\speaking\en_US\js\volume_bar.js
+2024-11-23 12:18:37 IST [main] - INFO [com.ordinate.cdt.client.engine.Chassis] Loaded Ordinate System...
+2024-11-23 12:18:38 IST [main] - INFO [com.ordinate.cdt.client.CDT] Initalizing audio service
+2024-11-23 12:18:38 IST [main] - INFO [com.ordinate.cdt.client.util.AudioSettings] !Loading audio service: mixer win32, recorder: win32
+2024-11-23 12:18:38 IST [main] - INFO [com.ordinate.audio.Service] Initializing audio service for mixer type win32 and recorder type win32
+2024-11-23 12:18:38 IST [main] - INFO [com.ordinate.audio.win32.MixerImpl] loaded lib for win32 mixer: com_ordinate_jni_audio.dll
+2024-11-23 12:18:38 IST [main] - INFO [com.ordinate.audio.Service] Master volume: 1.0
+2024-11-23 12:18:38 IST [main] - INFO [com.ordinate.audio.Service] Waveout volume: 0.0
+2024-11-23 12:18:38 IST [main] - INFO [com.ordinate.audio.win32.RecorderImpl] loaded lib for win32 recorder: com_ordinate_jni_audio.dll
+2024-11-23 12:18:38 IST [main] - INFO [com.ordinate.cdt.client.util.AudioSettings] Loading audio service: audioService !!!!
+2024-11-23 12:18:38 IST [main] - INFO [com.ordinate.cdt.client.util.AudioSettings] INITIALIZED: audioService !!!!
+2024-11-23 12:18:38 IST [main] - INFO [com.ordinate.cdt.client.util.AudioSettings] Set playback gain
+2024-11-23 12:18:38 IST [main] - INFO [com.ordinate.cdt.client.util.AudioSettings] Mixer initialized
+2024-11-23 12:18:38 IST [main] - INFO [com.ordinate.cdt.client.util.AudioSettings] INITIALIZED AUDIO SERVICE: true
+2024-11-23 12:18:38 IST [main] - INFO [com.ordinate.cdt.client.util.DisplaySettings] Enabled kiosk mode

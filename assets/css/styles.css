@@ -1,0 +1,104 @@
+/* Navabar Styles */
+@media screen and (min-width: 1280px) {
+    .header .logo img {
+        max-height: 48px;
+    }
+}
+
+/* Carousel Styles - start */
+.carousel-wrapper .carousel-item {
+    position: relative;
+}
+
+.carousel-wrapper .carousel-item .container {
+    width: max-content;
+    position: absolute;
+    z-index: 3;
+    top: 40%;
+    left: 10%;
+}
+
+.carousel-wrapper .carousel-item .container h2 {
+    width: max-content;
+    font-size: 48px;
+    font-weight: 700;
+    color: white;
+    text-shadow: 5px 5px 10px #009b2f, -5px -5px 10px #009b2f,
+        -5px 5px 10px #009b2f, -5px 5px 10px #009b2f, 5px 5px 5px #000,
+        -5px -5px 5px #000, -5px 5px 5px #000, -5px 5px 5px #000;
+}
+
+.carousel-wrapper .carousel-item .container p {
+    width: max-content;
+    font-size: 24px;
+    color: white;
+    font-weight: 500;
+    text-shadow: 5px 5px 10px #000, -5px -5px 10px #000, -5px 5px 10px #000,
+        5px -5px 10px #000;
+}
+
+@media screen and (max-width: 1024px) {
+    .carousel-wrapper .carousel-item .container h2 {
+        font-size: 32px;
+    }
+
+    .carousel-wrapper .carousel-item .container p {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .carousel-wrapper .carousel-item .container h2 {
+        font-size: 20px;
+    }
+
+    .carousel-wrapper .carousel-item .container p {
+        font-size: 12px;
+    }
+}
+/* Carousel Styles - end */
+
+
+/* Our Mission Styles - start */
+section#mission {
+    padding-bottom: 0px;
+}
+
+section#mission .page-title {
+    margin-bottom: 60px;
+}
+
+.icon-box-wrapper {
+    height: auto;
+}
+
+.icon-box-wrapper .icon-box {
+    height: auto;
+    border-color: color-mix(in srgb, var(--default-color), transparent 80%);
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.icon-box-wrapper .icon-box:first-child {
+    margin-left: 0px;
+}
+
+.icon-box-wrapper .icon-box:last-child {
+    margin-right: 0px;
+}
+
+.icon-box-wrapper .icon-box:hover {
+    border-color: #009b2f;
+}
+
+@media screen and (max-width: 480px) {
+    .icon-box-wrapper {
+        flex-direction: column;
+    }
+
+    .icon-box-wrapper .icon-box {
+        margin: 0px;
+        margin-bottom: 16px;
+    }
+}
+/* Our Mission Styles - end */

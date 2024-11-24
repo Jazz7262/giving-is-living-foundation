@@ -23,9 +23,7 @@
     font-size: 48px;
     font-weight: 700;
     color: white;
-    text-shadow: 5px 5px 10px #009b2f, -5px -5px 10px #009b2f,
-        -5px 5px 10px #009b2f, -5px 5px 10px #009b2f, 5px 5px 5px #000,
-        -5px -5px 5px #000, -5px 5px 5px #000, -5px 5px 5px #000;
+    text-shadow: 5px 5px 5px #000,        -5px -5px 5px #000, -5px 5px 5px #000, -5px 5px 5px #000;
 }
 
 .carousel-wrapper .carousel-item .container p {
